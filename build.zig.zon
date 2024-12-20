@@ -1,0 +1,6 @@
+.{ .name = "zig-game-dev", .version = "0.0.1", .dependencies = .{
+        .mach = .{
+            .url = "git+https://github.com/hexops/mach?ref=0.4#0049f0303578e8203af03c20c969a9fb3ab9a36f",
+            .hash = "1220203cdb9c66998abf55c99d4c84a78f11a7d0db2992adf3840a24f2d2bb829edc",
+        },
+    }, .paths = .{""} }
